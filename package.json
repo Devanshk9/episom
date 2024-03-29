@@ -1,0 +1,25 @@
+{
+  "name": "episom",
+  "displayName": "Episom",
+  "description": "VSC Colour that makes you CODE !!!!",
+  "version": "0.0.1",
+  "publisher": "Devansh Khetan",
+  "repository": {
+    
+  },
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Episom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Episom-color-theme.json"
+      }
+    ]
+  }
+}
