@@ -1,8 +1,9 @@
 # Episom Visual Studio Code Color Theme
 
-![Episom Theme](https://ik.imagekit.io/medyin/Screenshot%202024-03-30%20at%2010.28.59%E2%80%AFAM.png?updatedAt=1711774844773)
 
 Episom is a minimalist and vibrant color theme designed for Visual Studio Code. It features a soothing combination of colors that are easy on the eyes and enhance your coding experience. This README provides instructions on how to install and use the Episom theme in Visual Studio Code.
+
+![Episom Theme](https://ik.imagekit.io/medyin/Screenshot%202024-03-30%20at%2010.28.59%E2%80%AFAM.png?updatedAt=1711774844773)
 
 ## Installation
 

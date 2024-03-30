@@ -1,8 +1,9 @@
 {
   "name": "episom",
   "displayName": "Episom",
-  "description": "VSC Colour that makes you CODE !!!!",
-  "version": "0.0.1",
+  "description": "Theme that makes you CODE !!!",
+  "version": "0.1.4",
+  "icon": "episom.png",
   "publisher": "devanshkhetan9",
   "repository": {
       "type": "git",
@@ -11,6 +12,7 @@
   "engines": {
     "vscode": "^1.87.0"
   },
+  
   "categories": [
     "Themes"
   ],
