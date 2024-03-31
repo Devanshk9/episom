@@ -9,4 +9,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- v0.1.5 Improved colors for C++ and HTML.
+- v0.1.6 Improved colors for C++ and HTML, Added new Logo and README.md.
